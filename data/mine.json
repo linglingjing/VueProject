@@ -1,0 +1,86 @@
+{
+  "login": {
+    "user_id": "437128253",
+    "name": "qzone_Magic~静",
+    "about_me": "",
+    "avatar": "http://d01.res.meilishuo.net/ap/_o/03/b4/2d62450ffcb05428b958512bea22_100_100.ch.jpeg",
+    "bg_img": "http://d05.res.meilishuo.net/img/_o/e3/16/8c08906a9bef2cbe7a9b4190332e_750_610.cj.jpg",
+    "user_tag": [],
+    "vip_level": "1",
+    "vip_url": "http://m.meilishuo.com/huiyuan/card",
+    "vip_icon": "https://s11.mogucdn.com/mlcdn/c024f5/170810_0d977d320ad17b9a1gec873l412hd_156x54.png",
+    "new_vip_icon": null,
+    "vip_point": 0,
+    "checkin_url": "http://m.meilishuo.com/huiyuan/sign",
+    "checkin": false
+  },
+  "list": [
+    {
+      "image": "https://s3.mogucdn.com/mlcdn/c45406/170718_01g5dejk2h584f1j327b52h0a6abe_240x240.png",
+      "link": "mls://wallet?acm=3.mce.2_10_18kt4.23483.0.ef0pIqyuTuPKp.m_200080-pos_0",
+      "acm": "3.mce.2_10_18kt4.23483.0.ef0pIqyuTuPKp.m_200080-pos_0",
+      "sort": 1,
+      "title": "钱包"
+    },
+    {
+      "image": "https://s11.mogucdn.com/mlcdn/c45406/170718_651cg1559al40edkcel118249hd67_243x240.png",
+      "link": "mls://couponlist/coupon?acm=3.mce.2_10_190yo.23483.0.ef0pIqyuTuPKp.m_210548-pos_1",
+      "acm": "3.mce.2_10_190yo.23483.0.ef0pIqyuTuPKp.m_210548-pos_1",
+      "sort": 2,
+      "title": "优惠券"
+    },
+    {
+      "image": "https://s3.mogucdn.com/mlcdn/c45406/170718_0ijhb4fc97l871fl3lc5id3cid33b_243x240.png",
+      "link": "http://m.meilishuo.com/huiyuan/card?acm=3.mce.2_10_1a7yc.23483.0.ef0pIqyuTuPKp.m_238406-pos_2",
+      "acm": "3.mce.2_10_1a7yc.23483.0.ef0pIqyuTuPKp.m_238406-pos_2",
+      "sort": 3,
+      "title": "会员签到"
+    },
+    {
+      "image": "https://s3.mogucdn.com/mlcdn/c45406/170718_80g49ji4kag8ga703122kbeeb7ge2_240x240.png",
+      "link": "http://h5.meilishuo.com/newservice/index.html?acm=3.mce.2_10_1a7cy.23483.0.ef0pIqyuTuPKp.m_238021-pos_3",
+      "acm": "3.mce.2_10_1a7cy.23483.0.ef0pIqyuTuPKp.m_238021-pos_3",
+      "sort": 4,
+      "title": "客服帮助"
+    },
+    {
+      "image": "https://s11.mogucdn.com/mlcdn/c45406/170718_7bg514fidija6b4h6gh7c5h66355c_240x240.png",
+      "link": "mls://mefavor?acm=3.mce.2_10_18kt8.23483.0.ef0pIqyuTuPKp.m_200082-pos_4",
+      "acm": "3.mce.2_10_18kt8.23483.0.ef0pIqyuTuPKp.m_200082-pos_4",
+      "sort": 5,
+      "title": "收藏"
+    },
+    {
+      "image": "https://s17.mogucdn.com/mlcdn/c45406/170718_8ach13glh32h3ei5abkidflk907kj_240x240.png",
+      "link": "mls://metrace?type=0&acm=3.mce.2_10_18pty.23483.0.ef0pIqyuTuPKp.m_203335-pos_5",
+      "acm": "3.mce.2_10_18pty.23483.0.ef0pIqyuTuPKp.m_203335-pos_5",
+      "sort": 6,
+      "title": "足迹"
+    },
+    {
+      "image": "https://s2.mogucdn.com/mlcdn/c45406/170718_7ge00ddd78c315aa203jc37dcca12_240x240.png",
+      "link": "mls://foryouselect?acm=3.mce.2_10_18pu0.23483.0.ef0pIqyuTuPKp.m_203336-pos_6",
+      "acm": "3.mce.2_10_18pu0.23483.0.ef0pIqyuTuPKp.m_203336-pos_6",
+      "sort": 7,
+      "title": "猜你喜欢"
+    },
+    {
+      "image": "https://s17.mogucdn.com/mlcdn/c45406/170721_846c2kh70aagch3afg1j35bfakdi6_240x240.png",
+      "link": "http://m.meilishuo.com/order/myTuan?acm=3.mce.2_10_19iiw.23483.0.ef0pIqyuTuPKp.m_221928-pos_7",
+      "acm": "3.mce.2_10_19iiw.23483.0.ef0pIqyuTuPKp.m_221928-pos_7",
+      "sort": 8,
+      "title": "9.9元拼团"
+    }
+  ],
+  "download": {
+    "app_icon": "http://d05.res.meilishuo.net/img/_o/d5/59/cb70915808b12b7f41c3d34b4bfc_1024_1024.c1.png",
+    "scheme": "mogujie://open?url=mgj://shoppingguide",
+    "app_title": "蘑菇街",
+    "download_url": "https://www.mogujie.com/mage/download/d?package=11221207MAMmlsjiazu-900.-release.apk",
+    "package_name": "com.mogujie",
+    "app_summary": "时尚买手为你精选流行衣服鞋包",
+    "startTime": 0,
+    "acm": "3.mce.2_10_1b81m.31176.0.a5Bg0qyuTuPO4.m_261793-pos_0",
+    "endTime": 0
+  }
+}

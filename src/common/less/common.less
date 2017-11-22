@@ -1,0 +1,35 @@
+@import "mixin.less";
+@mainColor: #FF3366;
+@grey: rgba(163, 163, 163, 0.77);
+@addCart-btn: #ffe817;
+@mainBorderColor:rgba(7, 17, 27, 0.1);
+@mainBgColor:rgba(210, 210, 210, 0.54);
+.placeholder(@fontColor, @inputfontSize) {
+  &::-webkit-input-placeholder { /* WebKit browsers */
+    color: @fontColor;
+    font-size: @inputfontSize;
+  }
+  &:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: @fontColor;
+    font-size: @inputfontSize;
+  }
+  &::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: @fontColor;
+    font-size: @inputfontSize;
+  }
+  &:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color: @fontColor;
+    font-size: @inputfontSize;
+  }
+}
+.checkBox(@borderColor, @url){
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50px;
+  .border-1px(@borderColor);
+  &.active{
+    background: url(@url) no-repeat center ;
+    background-size: contain;
+  }
+}

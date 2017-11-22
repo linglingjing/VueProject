@@ -1,0 +1,631 @@
+{
+  "moduleList": [
+    {
+      "moduleType": 2,
+      "picList": [
+        {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170922_8g4g9f93l9lbffd8c6d5cghfd9bbk_780x580.jpg_640x999.jpg",
+          "w": "640",
+          "h": "476",
+          "link": "http://item.meilishuo.com/h5/detail/1kkr2zk?moduleId=1001"
+        }
+      ],
+      "layoutName": ""
+    },
+    {
+      "moduleType": 2,
+      "picList": [
+        {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170922_3ek594libdkfh51d0idj8443j710g_780x580.jpg_640x999.jpg",
+          "w": "640",
+          "h": "476",
+          "link": "http://item.meilishuo.com/h5/detail/1kkvrie?moduleId=1001"
+        }
+      ],
+      "layoutName": ""
+    },
+    {
+      "moduleType": 2,
+      "picList": [
+        {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170922_430b1e88h2123i9ld55akh15idb7i_780x580.jpg_640x999.jpg",
+          "w": "640",
+          "h": "476",
+          "link": "http://item.meilishuo.com/h5/detail/1kkw6u6?moduleId=1001"
+        }
+      ],
+      "layoutName": ""
+    },
+    {
+      "moduleType": 6,
+      "picList": [
+        {
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/170523_26eckifcg2748jlabi567fi1he4k5_240x290.jpg_225x999.jpg",
+          "w": "225",
+          "h": "272",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20174424&isCategoryId=1&moduleId=1003"
+        },
+        {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170906_02g4aaa5ljf4e78bgj76highcl43h_240x290.jpg_225x999.jpg",
+          "w": "225",
+          "h": "272",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20142317&isCategoryId=1&moduleId=1003"
+        },
+        {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170906_6ikc6425c63ald36fkd9ed33eijii_240x290.jpg_225x999.jpg",
+          "w": "225",
+          "h": "272",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20145561&isCategoryId=1&moduleId=1003"
+        }
+      ],
+      "layoutName": "分类|"
+    },
+    {
+      "moduleType": 6,
+      "picList": [
+        {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170906_0jl2hih53l08g67kji2k7ccdjfbaj_240x290.jpg_225x999.jpg",
+          "w": "225",
+          "h": "272",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20145526&isCategoryId=1&moduleId=1003"
+        },
+        {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170906_3bia6a1bb57fh8986287626cid3ja_240x290.jpg_225x999.jpg",
+          "w": "225",
+          "h": "272",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20142334&isCategoryId=1&moduleId=1003"
+        },
+        {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170906_56a26ab1de688a8djjk8768h8742h_240x290.jpg_225x999.jpg",
+          "w": "225",
+          "h": "272",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20160582&isCategoryId=1&moduleId=1003"
+        }
+      ],
+      "layoutName": ""
+    },
+    {
+      "moduleType": 6,
+      "picList": [
+        {
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/170906_65e0jjelaelhj5fc374e1k7gk427a_240x290.jpg_225x999.jpg",
+          "w": "225",
+          "h": "272",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20142329&isCategoryId=1&moduleId=1003"
+        },
+        {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170906_6ff81ef6b0hk5d1khjfkkgi070019_240x290.jpg_225x999.jpg",
+          "w": "225",
+          "h": "272",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20142330&isCategoryId=1&moduleId=1003"
+        },
+        {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170906_1g6a47kj07gcg8kljgg7ghbhj4d79_240x290.jpg_225x999.jpg",
+          "w": "225",
+          "h": "272",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20142331&isCategoryId=1&moduleId=1003"
+        }
+      ],
+      "layoutName": ""
+    },
+    {
+      "moduleType": 6,
+      "picList": [
+        {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170906_79f1f09g7053l8ja762h58ef2kdhi_240x290.jpg_225x999.jpg",
+          "w": "225",
+          "h": "272",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20191582&isCategoryId=1&moduleId=1003"
+        },
+        {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170906_67892h0ha93hdeega9b386h49cjab_240x290.jpg_225x999.jpg",
+          "w": "225",
+          "h": "272",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20160606&isCategoryId=1&moduleId=1003"
+        },
+        {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170906_851h5559cji169lhikbe8ai8g9d7f_240x290.jpg_225x999.jpg",
+          "w": "225",
+          "h": "272",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20148551&isCategoryId=1&moduleId=1003"
+        }
+      ],
+      "layoutName": ""
+    },
+    {
+      "moduleType": 2,
+      "picList": [
+        {
+          "img": "http://s2.mogucdn.com/mlcdn/c45406/170321_7f1301h3hf0b2j746lfc9b4fl9ecj_750x100.jpg_640x999.jpg",
+          "w": "640",
+          "h": "86",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20160658&isCategoryId=1&moduleId=1001"
+        }
+      ],
+      "layoutName": ""
+    },
+    {
+      "moduleType": 5,
+      "goodsList": [
+        {
+          "priceFormat": "139.00",
+          "iid": "1kkvrie",
+          "clientUrl": "mls://detail?iid=1kkvrie&moduleId=1004",
+          "created": "1505793044",
+          "oldPrice": "¥139.00",
+          "showLarge": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170919_18h8d125lgj66f9d1k3c3dei601d0_1600x2250.jpg_640x999.jpg",
+            "w": 640,
+            "h": 900
+          },
+          "show": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170919_18h8d125lgj66f9d1k3c3dei601d0_1600x2250.jpg_320x999.jpg",
+            "w": 320,
+            "h": 450
+          },
+          "start": 0,
+          "onsale": 0,
+          "title": "【买手款】17秋新款韩版长款宽松薄款潮人刺绣风衣女休闲外套女",
+          "type": 11,
+          "props": [
+            "风衣",
+            "长款",
+            "薄款",
+            "宽松",
+            "新款",
+            "韩版"
+          ],
+          "sale": 46,
+          "cfav": 411,
+          "price": "¥139.00",
+          "jumplink": "mls://detail?iid=1kkvrie&moduleId=1004",
+          "processType": 0,
+          "oldPriceFormat": "139.00"
+        },
+        {
+          "priceFormat": "59.00",
+          "iid": "1kkw6u6",
+          "clientUrl": "mls://detail?iid=1kkw6u6&moduleId=1004",
+          "created": "1505800277",
+          "oldPrice": "¥59.00",
+          "showLarge": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170921_7359hiel9lljkh29d57c54db4bbjj_640x900.jpg_640x999.jpg",
+            "w": 640,
+            "h": 900
+          },
+          "show": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170921_7359hiel9lljkh29d57c54db4bbjj_640x900.jpg_320x999.jpg",
+            "w": 320,
+            "h": 450
+          },
+          "start": 0,
+          "onsale": 0,
+          "title": "17秋baby明星同款卡通小火箭休闲中长款针织衫女套头毛衣",
+          "type": 11,
+          "props": [
+            "长款针织衫",
+            "卡通",
+            "休闲",
+            "明星同款"
+          ],
+          "sale": 76,
+          "cfav": 348,
+          "price": "¥59.00",
+          "jumplink": "mls://detail?iid=1kkw6u6&moduleId=1004",
+          "processType": 0,
+          "oldPriceFormat": "59.00"
+        },
+        {
+          "priceFormat": "89.00",
+          "iid": "1kkwxaw",
+          "clientUrl": "mls://detail?iid=1kkwxaw&moduleId=1004",
+          "created": "1505808664",
+          "oldPrice": "¥89.00",
+          "showLarge": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170919_0cff5hh8f5bdbie6a32kf38igig26_1600x2250.jpg_640x999.jpg",
+            "w": 640,
+            "h": 900
+          },
+          "show": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170919_0cff5hh8f5bdbie6a32kf38igig26_1600x2250.jpg_320x999.jpg",
+            "w": 320,
+            "h": 450
+          },
+          "start": 0,
+          "onsale": 0,
+          "title": "2017新款原宿学院宽松蝴蝶结绑绳喇叭袖打底衫针织T恤",
+          "type": 11,
+          "props": [
+            "针织t恤",
+            "喇叭袖",
+            "宽松",
+            "原宿",
+            "蝴蝶结",
+            "新款"
+          ],
+          "sale": 101,
+          "cfav": 673,
+          "price": "¥89.00",
+          "jumplink": "mls://detail?iid=1kkwxaw&moduleId=1004",
+          "processType": 0,
+          "oldPriceFormat": "89.00"
+        },
+        {
+          "priceFormat": "55.00",
+          "iid": "1kkwyj6",
+          "clientUrl": "mls://detail?iid=1kkwyj6&moduleId=1004",
+          "created": "1505809094",
+          "oldPrice": "¥55.00",
+          "showLarge": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170920_827hh0g6e8636ii0j2gd5453gehcf_796x1119.jpg_640x999.jpg",
+            "w": 640,
+            "h": 900
+          },
+          "show": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170920_827hh0g6e8636ii0j2gd5453gehcf_796x1119.jpg_320x999.jpg",
+            "w": 320,
+            "h": 450
+          },
+          "start": 0,
+          "onsale": 0,
+          "title": "2017新款宽松长袖泡泡袖棒球服荷叶边短款薄外套",
+          "type": 11,
+          "props": [
+            "短款薄外套",
+            "宽松",
+            "长袖",
+            "泡泡袖",
+            "荷叶边",
+            "新款"
+          ],
+          "sale": 65,
+          "cfav": 192,
+          "price": "¥55.00",
+          "jumplink": "mls://detail?iid=1kkwyj6&moduleId=1004",
+          "processType": 0,
+          "oldPriceFormat": "55.00"
+        },
+        {
+          "priceFormat": "45.00",
+          "iid": "1kkvk1e",
+          "clientUrl": "mls://detail?iid=1kkvk1e&moduleId=1004",
+          "created": "1505790455",
+          "oldPrice": "¥45.00",
+          "showLarge": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170919_4dfa3b7c3e46kggl0fd1al4i0hihg_1600x2250.jpg_640x999.jpg",
+            "w": 640,
+            "h": 900
+          },
+          "show": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170919_4dfa3b7c3e46kggl0fd1al4i0hihg_1600x2250.jpg_320x999.jpg",
+            "w": 320,
+            "h": 450
+          },
+          "start": 0,
+          "onsale": 0,
+          "title": "2017秋冬新款百搭灯芯绒开衩包臀半身裙中裙",
+          "type": 11,
+          "props": [
+            "包臀半身裙",
+            "开衩",
+            "灯芯绒",
+            "百搭",
+            "秋冬新款"
+          ],
+          "sale": 46,
+          "cfav": 571,
+          "price": "¥45.00",
+          "jumplink": "mls://detail?iid=1kkvk1e&moduleId=1004",
+          "processType": 0,
+          "oldPriceFormat": "45.00"
+        },
+        {
+          "priceFormat": "99.00",
+          "iid": "1kkvuwm",
+          "clientUrl": "mls://detail?iid=1kkvuwm&moduleId=1004",
+          "created": "1505794472",
+          "oldPrice": "¥99.00",
+          "showLarge": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170919_3dh3de7fb7gd7d3k582a5c93deibf_1600x2250.jpg_640x999.jpg",
+            "w": 640,
+            "h": 900
+          },
+          "show": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170919_3dh3de7fb7gd7d3k582a5c93deibf_1600x2250.jpg_320x999.jpg",
+            "w": 320,
+            "h": 450
+          },
+          "start": 0,
+          "onsale": 0,
+          "title": "2017秋冬新款可爱百搭格纹翻领刺绣蝙蝠袖大衣外套",
+          "type": 11,
+          "props": [
+            "大衣",
+            "格纹",
+            "秋冬新款",
+            "蝙蝠袖",
+            "百搭",
+            "可爱"
+          ],
+          "sale": 93,
+          "cfav": 421,
+          "price": "¥99.00",
+          "jumplink": "mls://detail?iid=1kkvuwm&moduleId=1004",
+          "processType": 0,
+          "oldPriceFormat": "99.00"
+        },
+        {
+          "priceFormat": "49.00",
+          "iid": "1kkr4jw",
+          "clientUrl": "mls://detail?iid=1kkr4jw&moduleId=1004",
+          "created": "1505705352",
+          "oldPrice": "¥49.00",
+          "showLarge": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170918_1j230gacb43lf39kd011ibcg43h9g_1600x2250.jpg_640x999.jpg",
+            "w": 640,
+            "h": 900
+          },
+          "show": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170918_1j230gacb43lf39kd011ibcg43h9g_1600x2250.jpg_320x999.jpg",
+            "w": 320,
+            "h": 450
+          },
+          "start": 0,
+          "onsale": 0,
+          "title": "2017新品字母贴片圆领套头宽松毛织衫T恤",
+          "type": 11,
+          "props": [
+            "毛织衫",
+            "圆领套头",
+            "宽松",
+            "字母"
+          ],
+          "sale": 59,
+          "cfav": 515,
+          "price": "¥49.00",
+          "jumplink": "mls://detail?iid=1kkr4jw&moduleId=1004",
+          "processType": 0,
+          "oldPriceFormat": "49.00"
+        },
+        {
+          "priceFormat": "59.00",
+          "iid": "1kkr0y0",
+          "clientUrl": "mls://detail?iid=1kkr0y0&moduleId=1004",
+          "created": "1505703883",
+          "oldPrice": "¥59.00",
+          "showLarge": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170918_47flb050dfc4fg120aed7g60cjade_1600x2250.jpg_640x999.jpg",
+            "w": 640,
+            "h": 900
+          },
+          "show": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170918_47flb050dfc4fg120aed7g60cjade_1600x2250.jpg_320x999.jpg",
+            "w": 320,
+            "h": 450
+          },
+          "start": 0,
+          "onsale": 0,
+          "title": "2017新款韩版宽松百搭字母刺绣pu皮吊带连衣裙",
+          "type": 11,
+          "props": [
+            "吊带连衣裙",
+            "宽松",
+            "百搭",
+            "pu皮",
+            "新款",
+            "韩版"
+          ],
+          "sale": 33,
+          "cfav": 197,
+          "price": "¥59.00",
+          "jumplink": "mls://detail?iid=1kkr0y0&moduleId=1004",
+          "processType": 0,
+          "oldPriceFormat": "59.00"
+        },
+        {
+          "priceFormat": "79.00",
+          "iid": "1kkrnd4",
+          "clientUrl": "mls://detail?iid=1kkrnd4&moduleId=1004",
+          "created": "1505715085",
+          "oldPrice": "¥79.00",
+          "showLarge": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/171009_88l127ai548a010c5db6hi0l3g7c5_640x900.jpg_640x999.jpg",
+            "w": 640,
+            "h": 900
+          },
+          "show": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/171009_88l127ai548a010c5db6hi0l3g7c5_640x900.jpg_320x999.jpg",
+            "w": 320,
+            "h": 450
+          },
+          "start": 0,
+          "onsale": 0,
+          "title": "【套装】粉红豹长袖T恤中长款上衣可拆卸背带百褶a字半裙",
+          "type": 11,
+          "props": [
+            "套装"
+          ],
+          "sale": 109,
+          "cfav": 374,
+          "price": "¥79.00",
+          "jumplink": "mls://detail?iid=1kkrnd4&moduleId=1004",
+          "processType": 0,
+          "oldPriceFormat": "79.00"
+        },
+        {
+          "priceFormat": "73.00",
+          "iid": "1kkrrfq",
+          "clientUrl": "mls://detail?iid=1kkrrfq&moduleId=1004",
+          "created": "1505716692",
+          "oldPrice": "¥73.00",
+          "showLarge": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170918_7h1k3a5eab0bd4j8kfc3ghgg83gj1_2000x2813.jpg_640x999.jpg",
+            "w": 640,
+            "h": 901
+          },
+          "show": {
+            "img": "http://s3.mogucdn.com/mlcdn/917393/170918_7h1k3a5eab0bd4j8kfc3ghgg83gj1_2000x2813.jpg_320x999.jpg",
+            "w": 320,
+            "h": 451
+          },
+          "start": 0,
+          "onsale": 0,
+          "title": "2017日本花式荷叶边鱼尾长袖连衣裙",
+          "type": 11,
+          "props": [
+            "长袖连衣裙",
+            "荷叶边",
+            "花式"
+          ],
+          "sale": 53,
+          "cfav": 567,
+          "price": "¥73.00",
+          "jumplink": "mls://detail?iid=1kkrrfq&moduleId=1004",
+          "processType": 0,
+          "oldPriceFormat": "73.00"
+        }
+      ],
+      "layoutName": ""
+    },
+    {
+      "moduleType": 2,
+      "picList": [
+        {
+          "img": "http://s2.mogucdn.com/mlcdn/c45406/170321_35h126kbd0deg4531dfkhei1145ja_750x100.jpg_640x999.jpg",
+          "w": "640",
+          "h": "86",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20145561&isCategoryId=1&moduleId=1001"
+        }
+      ],
+      "layoutName": ""
+    },
+    {
+      "moduleType": 5,
+      "goodsList": [
+        {
+          "priceFormat": "99.00",
+          "iid": "1kdzdl6",
+          "clientUrl": "mls://detail?iid=1kdzdl6&moduleId=1004",
+          "created": "1497518261",
+          "oldPrice": "¥99.00",
+          "showLarge": {
+            "img": "http://s3.mogucdn.com/p2/170727/upload_5jaa897c42i854l17c0efbih0fhbd_1600x2250.jpg_640x999.jpg",
+            "w": 640,
+            "h": 900
+          },
+          "show": {
+            "img": "http://s3.mogucdn.com/p2/170727/upload_5jaa897c42i854l17c0efbih0fhbd_1600x2250.jpg_320x999.jpg",
+            "w": 320,
+            "h": 450
+          },
+          "start": 0,
+          "onsale": 0,
+          "title": "【买手款】2017早秋新款可爱学院风牛仔裙连衣裙徽章套装",
+          "type": 11,
+          "props": [
+            "套装",
+            "可爱",
+            "学院风",
+            "新款"
+          ],
+          "sale": 1090,
+          "cfav": 1282,
+          "price": "¥99.00",
+          "jumplink": "mls://detail?iid=1kdzdl6&moduleId=1004",
+          "processType": 0,
+          "oldPriceFormat": "99.00"
+        },
+        {
+          "priceFormat": "25.00",
+          "iid": "1kfyl52",
+          "clientUrl": "mls://detail?iid=1kfyl52&moduleId=1004",
+          "created": "1500621213",
+          "oldPrice": "¥25.00",
+          "showLarge": {
+            "img": "http://s3.mogucdn.com/p2/170804/upload_5gb23b05k2045j06gf998iglfd8ic_924x1300.jpg_640x999.jpg",
+            "w": 640,
+            "h": 901
+          },
+          "show": {
+            "img": "http://s3.mogucdn.com/p2/170804/upload_5gb23b05k2045j06gf998iglfd8ic_924x1300.jpg_320x999.jpg",
+            "w": 320,
+            "h": 451
+          },
+          "start": 0,
+          "onsale": 0,
+          "title": "品牌原单夏季女式撞色口袋纯色T恤",
+          "type": 11,
+          "props": [
+            "纯色t恤",
+            "品牌",
+            "原单",
+            "夏季",
+            "女式"
+          ],
+          "sale": 875,
+          "cfav": 1605,
+          "price": "¥25.00",
+          "jumplink": "mls://detail?iid=1kfyl52&moduleId=1004",
+          "processType": 0,
+          "oldPriceFormat": "25.00"
+        }
+      ],
+      "layoutName": ""
+    },
+    {
+      "moduleType": 16,
+      "list": [
+        {
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20142328&isCategoryId=1&moduleId=4000",
+          "id": 20142328,
+          "title": "裙子"
+        },
+        {
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20142331&isCategoryId=1&moduleId=4000",
+          "id": 20142331,
+          "title": "裤子"
+        },
+        {
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20145521&isCategoryId=1&moduleId=4000",
+          "id": 20145521,
+          "title": "上衣"
+        },
+        {
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20160606&isCategoryId=1&moduleId=4000",
+          "id": 20160606,
+          "title": "鞋靴"
+        },
+        {
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20148551&isCategoryId=1&moduleId=4000",
+          "id": 20148551,
+          "title": "包包"
+        }
+      ]
+    },
+    {
+      "moduleType": 17,
+      "list": [
+        {
+          "name": "",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20174424&isCategoryId=1&moduleId=4001",
+          "title": "全网首发"
+        },
+        {
+          "name": "",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20142334&isCategoryId=1&moduleId=4001",
+          "title": "美腻套装"
+        },
+        {
+          "name": "",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20148551&isCategoryId=1&moduleId=4001",
+          "title": "包治百病"
+        },
+        {
+          "name": "",
+          "link": "mls://shopsearchgoods?shopId=1172jnw8&categoryId=20158510&isCategoryId=1&moduleId=4001",
+          "title": "\b他好帅"
+        }
+      ]
+    }
+  ]
+}

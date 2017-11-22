@@ -1,0 +1,125 @@
+{
+  "shopInfo": {
+    "score": [
+      {
+        "name": "描述相符",
+        "score": 4.51,
+        "isBetter": true
+      },
+      {
+        "name": "价格合理",
+        "score": 4.57,
+        "isBetter": true
+      },
+      {
+        "name": "质量满意",
+        "score": 4.49,
+        "isBetter": true
+      }
+    ],
+    "services": [
+      {
+        "exName": "",
+        "name": "超时赔付",
+        "icon": "https://s10.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+        "exclude": "",
+        "acm": "3.mce.2_10_1c768.50357.0.kJzwdqzlRAq7b.m_284556-pos_0",
+        "detail": "您支付后会在预定时间内发出，若未按照约定发货，交易完成后可获得5/10元优惠券补贴",
+        "excludeIcon": ""
+      },
+      {
+        "exName": "",
+        "name": "全场包邮",
+        "icon": "https://s10.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+        "exclude": "",
+        "acm": "3.mce.2_10_1c76a.50357.0.kJzwdqzlRAq7b.m_284557-pos_1",
+        "detail": "所有商品均享受包邮，您不用承担任何发货运费",
+        "excludeIcon": "",
+        "excludeDetail": ""
+      },
+      {
+        "exName": "",
+        "name": "退货补运费",
+        "icon": "https://s10.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+        "exclude": "",
+        "acm": "3.mce.2_10_1c76c.50357.0.kJzwdqzlRAq7b.m_284558-pos_2",
+        "detail": "您退货产生的运费会以5/10元现金形式返还到您美丽说的钱包中",
+        "excludeIcon": "",
+        "excludeDetail": ""
+      },
+      {
+        "exName": "不支持无理由退货",
+        "name": "7天无忧退货",
+        "icon": "https://s10.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+        "exclude": "4182,722,4184,817,732,724,723",
+        "acm": "3.mce.2_10_1c76g.50357.0.kJzwdqzlRAq7b.m_284560-pos_3",
+        "detail": "商品签收起7天内如不满意您可申请无理由退货，免除您的后顾之忧",
+        "excludeIcon": "https://s10.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+        "excludeDetail": "商品属于贴身类或个性化定制商品，暂不支持无理由退货"
+      }
+    ],
+    "preferential": [
+      {
+        "campId": "1hv5pyysu",
+        "orgCampId": 700008497339,
+        "limit": "169",
+        "limitDesc": "满169元立减",
+        "effect": "39",
+        "effectDesc": "39元",
+        "isNeedGet": true,
+        "isAlreadGet": false,
+        "proType": "coupon",
+        "promotionCode": "shopCoupon",
+        "validTime": "2017.10.27-2017.10.30",
+        "bizType": 0
+      },
+      {
+        "campId": "1hv5pyyuq",
+        "orgCampId": 700008497373,
+        "limit": "229",
+        "limitDesc": "满229元立减",
+        "effect": "59",
+        "effectDesc": "59元",
+        "isNeedGet": true,
+        "isAlreadGet": false,
+        "proType": "coupon",
+        "promotionCode": "shopCoupon",
+        "validTime": "2017.10.27-2017.10.30",
+        "bizType": 0
+      },
+      {
+        "campId": "1hv5pz662",
+        "orgCampId": 700008502113,
+        "limit": "149",
+        "limitDesc": "活动商品149元任选",
+        "effect": "2",
+        "effectDesc": "2件",
+        "isNeedGet": false,
+        "proType": "packageSale",
+        "promotionCode": "packageSale",
+        "validTime": "2017.10.27-2017.10.30",
+        "link": "//www.meilishuo.com/fullCut?shopId=1172jnw8&page=1&proId=1hv5pz662",
+        "bizType": 0
+      }
+    ],
+    "shopHelp": {
+      "image": "https://s3.mogucdn.com/mlcdn/c45406/170621_8713e75393dh4j02lf1669h5g2049_750x2092.jpg",
+      "link": "",
+      "acm": "3.mce.2_10_194ae.29346.0.9V9nKqzlRCXEL.m_212703-pos_0",
+      "title": "购物帮助"
+    },
+    "cFans": 137413,
+    "cSells": 4593087,
+    "allGoodsUrl": "mls://shopgoodswall/moshop/goodsall?shopId=1172jnw8&title=全部商品",
+    "shopUrl": "mls://shop?shopId=1172jnw8",
+    "isMarked": false,
+    "cGoods": 1113,
+    "userId": "1zyeb84",
+    "shopLogo": "http://s3.mogucdn.com/p2/161111/hz75la_8f8kk1ff66365a77e520dckl0lb51_200x200.jpg",
+    "name": "美丽优选",
+    "shopId": "1172jnw8",
+    "type": 4,
+    "level": 3,
+    "nonsupportReasonRefound": false
+  }
+}

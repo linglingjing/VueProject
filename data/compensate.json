@@ -1,0 +1,43 @@
+{
+  "compensate": [
+    {
+      "exName": "",
+      "name": "超时赔付",
+      "icon": "https://s10.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+      "exclude": "",
+      "acm": "3.mce.2_10_1c768.50357.0.kJzwdqzlRAq7b.m_284556-pos_0",
+      "detail": "您支付后会在预定时间内发出，若未按照约定发货，交易完成后可获得5/10元优惠券补贴",
+      "excludeIcon": ""
+    },
+    {
+      "exName": "",
+      "name": "全场包邮",
+      "icon": "https://s10.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+      "exclude": "",
+      "acm": "3.mce.2_10_1c76a.50357.0.kJzwdqzlRAq7b.m_284557-pos_1",
+      "detail": "所有商品均享受包邮，您不用承担任何发货运费",
+      "excludeIcon": "",
+      "excludeDetail": ""
+    },
+    {
+      "exName": "",
+      "name": "退货补运费",
+      "icon": "https://s10.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+      "exclude": "",
+      "acm": "3.mce.2_10_1c76c.50357.0.kJzwdqzlRAq7b.m_284558-pos_2",
+      "detail": "您退货产生的运费会以5/10元现金形式返还到您美丽说的钱包中",
+      "excludeIcon": "",
+      "excludeDetail": ""
+    },
+    {
+      "exName": "不支持无理由退货",
+      "name": "7天无忧退货",
+      "icon": "https://s10.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+      "exclude": "4182,722,4184,817,732,724,723",
+      "acm": "3.mce.2_10_1c76g.50357.0.kJzwdqzlRAq7b.m_284560-pos_3",
+      "detail": "商品签收起7天内如不满意您可申请无理由退货，免除您的后顾之忧",
+      "excludeIcon": "https://s10.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+      "excludeDetail": "商品属于贴身类或个性化定制商品，暂不支持无理由退货"
+    }
+  ]
+}
